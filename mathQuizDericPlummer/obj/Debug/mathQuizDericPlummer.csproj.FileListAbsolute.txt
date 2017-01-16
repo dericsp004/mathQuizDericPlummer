@@ -1,0 +1,9 @@
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\bin\Debug\mathQuizDericPlummer.exe.config
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\bin\Debug\mathQuizDericPlummer.exe
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\bin\Debug\mathQuizDericPlummer.pdb
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.csprojResolveAssemblyReference.cache
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.Form1.resources
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.Properties.Resources.resources
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.csproj.GenerateResource.Cache
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.exe
+c:\users\jessi\onedrive\documents\visual studio 2015\Projects\mathQuizDericPlummer\mathQuizDericPlummer\obj\Debug\mathQuizDericPlummer.pdb
